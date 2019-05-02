@@ -18,4 +18,4 @@ bot = commands.Bot(command_prefix="!")
 async def test(ctx, arg):
     # await ctx.send(arg)
     print("lol")
-client.run('NTcyMDQ0NjA0MzMzODgzNDAz.XMWktQ.uO3j8wA5Zh4gM-FXFl2jLty0FsY')
+client.run('')
