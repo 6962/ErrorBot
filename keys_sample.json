@@ -1,0 +1,17 @@
+{
+  "keys": [
+    {
+      "name":"discord",
+      "key":"DISCORD KEY HERE"
+  },
+
+    {
+      "name":"toa",
+      "key":"TOA KEY HERE"
+  },
+	{
+		"name":"yt",
+		"key":"YT KEY HERE"
+	}
+  ]
+}
