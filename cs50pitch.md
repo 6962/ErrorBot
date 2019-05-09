@@ -6,7 +6,9 @@ Create a discord chatbot with basic functions designed for an FTC team.
 
 All planned functionality can be found in the README of this repo, but I doubt I can implement that by the time the 24th comes, so for the project I would implement some of the more basic/realistic features of the bot, which I will list below.
 
-I have done a little bit of work on this before the project start, but only what is already commited to this repo as of 5/8/19.
+I have done a little bit of work on this before the project start, but only what is already committed to this repo as of 5/8/19.
+
+Currently I'm using [Discord.py](https://github.com/Rapptz/discord.py), but since I've never used it, I might switch back to [Discord.js](https://www.npmjs.com/package/discord.js) if I'm having trouble with it.
 
 ### GitHub feeds
 * activity feeds for "watched" repos/orgs/users

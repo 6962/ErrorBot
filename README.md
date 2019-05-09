@@ -1,5 +1,5 @@
 # ErrorBot
-An FTC team coordination and hub bot using discord.py
+An FTC team coordination and hub bot using discord.py(?)
 
 # goals for v1
 ### TOA:
